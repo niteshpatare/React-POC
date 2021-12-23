@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Resign.js"],"names":["Resign"],"mappings":"sJAKeA,UALA,WACX,OACI","file":"static/js/10.d3dabc93.chunk.js","sourcesContent":["const Resign = () => {\r\n    return(\r\n        <div>Resigned by user</div>\r\n    )\r\n}\r\nexport default Resign;"],"sourceRoot":""}

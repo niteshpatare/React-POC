@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-complete-guide"]=this["webpackJsonpreact-complete-guide"]||[]).push([[10],{24:function(e,t,c){"use strict";c.r(t);var i=c(2);t.default=function(){return Object(i.jsx)("div",{children:"Resigned by user"})}}}]);
+//# sourceMappingURL=10.d3dabc93.chunk.js.map

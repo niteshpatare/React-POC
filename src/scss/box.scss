@@ -1,0 +1,26 @@
+@use "button";
+@use "newBoxCSS";
+
+@mixin box {
+  border: 1px solid #ccc;
+}
+
+.btn {
+  @include box;
+  padding: button.$padding;
+}
+
+.card {
+  color: red;
+}
+nav .active,
+nav .inactive {
+  padding: 4px;
+  background-color: #ccc;
+  color: #888;
+  border-radius: 4px;
+  display: inline-block;
+}
+nav .active {
+  color: #ad45ad;
+}
