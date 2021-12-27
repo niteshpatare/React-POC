@@ -1,6 +1,5 @@
 import React, { Suspense, Fragment } from "react";
 import NewExpense from "./components/NewExpense.js";
-import { Header } from "./components/Header";
 import Footer from "./components/Footer";
 import ErrorBoundary from "./components/ErrorBoundary";
 // import { MainComponent } from "./components/MainComponent";
@@ -26,7 +25,6 @@ function App() {
   };
   return (
     <Fragment>
-      <Header title="Cybage MIS" />
       <section className="details-card">
         <div className="container">
           <div className="row">
